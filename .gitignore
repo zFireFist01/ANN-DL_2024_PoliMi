@@ -1,0 +1,13 @@
+exported_images/
+
+exported_images_clean/
+
+Outputs/*
+
+ExportImageDataset.py
+
+configs/
+
+Homework_1_Minimal_Working_Example.ipynb
+
+Blood_Cells_*
