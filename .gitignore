@@ -11,3 +11,10 @@ configs/
 Homework_1_Minimal_Working_Example.ipynb
 
 Blood_Cells_*
+
+training_set.npz
+
+
+augmented_*
+
+Augmented_set.npz
