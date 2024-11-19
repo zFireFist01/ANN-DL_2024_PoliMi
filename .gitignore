@@ -1,19 +1,9 @@
-exported_images/
-
-exported_images_clean/
-
-Outputs/*
-
-ExportImageDataset.py
-
 configs/
 
-Homework_1_Minimal_Working_Example.ipynb
+Weights Files/*
 
-Blood_Cells_*
+Keras Files/*
 
-training_set.npz
+datasets/*
 
-augmented_*
-
-Augmented_set.npz
+Outputs/*
